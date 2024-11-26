@@ -1,6 +1,5 @@
 export const foo = (i = 1) => {
-    console.log(">>> say foo")
-    bar(i++);
+    console.log("helloworld");
 }
 
 export const bar = (i) => {
