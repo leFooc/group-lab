@@ -7,3 +7,5 @@ export const bar = (i) => {
     if (i > 100) return;
     else foo(i++);
 }
+
+console.log("Commit from A");
