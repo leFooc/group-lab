@@ -8,4 +8,4 @@ console.log("Commit from B");
 
 console.log("Commit again from B");
 
-console.log("Commit from A");
+console.log("Commit 1 from A");
