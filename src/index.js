@@ -11,3 +11,5 @@ console.log("Commit again from B");
 console.log("Commit 3 from B");
 
 console.log("Silly commit from A");
+
+console.log("Fix Typo in code");
