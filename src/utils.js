@@ -11,3 +11,5 @@ export const bar = (i) => {
 console.log("Commit from A");
 
 console.log("Commit from branch new");
+
+console.log("Commit 2 from branch new");
